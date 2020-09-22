@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600257918 source:c:\users\training\desktop\99002503_praveen\box\box_demo.cpp
+	<iostream>
+	"Box_Demo.h"
+
+1600257966 c:\users\training\desktop\99002503_praveen\box\box_demo.h
+	<string.h>
+
+1600257918 source:c:\users\training\desktop\99002503_praveen\codes\box\box_demo.cpp
+	<iostream>
+	"Box_Demo.h"
+
+1600257966 c:\users\training\desktop\99002503_praveen\codes\box\box_demo.h
+	<string.h>
+
