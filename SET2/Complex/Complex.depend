@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1600400170 source:c:\users\training\desktop\99002503_praveen\complex\main.cpp
+	"Complex_demo.h"
+	<gtest/gtest.h>
+
+1600418836 c:\users\training\desktop\99002503_praveen\complex\complex_demo.h
+
+1600418544 source:c:\users\training\desktop\99002503_praveen\complex\complex_demo.cpp
+	"Complex_demo.h"
+	<iostream>
+
+1600419072 source:c:\users\training\desktop\set2\complex\complex_demo.cpp
+	"Complex_demo.h"
+	<iostream>
+
+1600419324 c:\users\training\desktop\set2\complex\complex_demo.h
+
+1600419263 source:c:\users\training\desktop\set2\complex\main.cpp
+	"Complex_demo.h"
+	<gtest/gtest.h>
+

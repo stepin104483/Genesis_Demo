@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600486954 source:c:\users\training\desktop\set2\fraction_final\main.cpp
+	"Fraction_final_demo.h"
+	<gtest/gtest.h>
+	"distance.h"
+	<gtest/gtest.h>
+
+1600488817 c:\users\training\desktop\set2\fraction_final\fraction_final_demo.h
+

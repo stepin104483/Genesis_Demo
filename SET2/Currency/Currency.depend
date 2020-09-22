@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600507770 source:c:\users\training\desktop\set2\currency\main.cpp
+	"Currency_Demo.h"
+	<gtest/gtest.h>
+
+1600507369 c:\users\training\desktop\set2\currency\currency_demo.h
+
+1600507368 source:c:\users\training\desktop\set2\currency\currency_demo.cpp
+	"Currency_Demo.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600490683 source:c:\users\training\desktop\set2\ninja_distance\main.cpp
+	"ninja_dist.h"
+	<gtest/gtest.h>
+
+1600491686 c:\users\training\desktop\set2\ninja_distance\ninja_dist.h
+
+1600491473 source:c:\users\training\desktop\set2\ninja_distance\ninja_dist.cpp
+	<iostream>
+	"ninja_dist.h"
+

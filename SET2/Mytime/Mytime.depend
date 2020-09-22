@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600338413 source:c:\users\training\desktop\99002503_praveen\codes\mytime\main.cpp
+	"Mytime_Demo1.h"
+	<gtest/gtest.h>
+
+1600338949 c:\users\training\desktop\99002503_praveen\codes\mytime\mytime_demo1.h
+
+1600339445 source:c:\users\training\desktop\99002503_praveen\codes\mytime\mytime_demo1.cpp
+	"Mytime_Demo1.h"
+	<iostream>
+
