@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1600668192 source:c:\users\training\documents\shapes\shape.cc
+	"polygon.h"
+
+1600486777 c:\users\training\documents\shapes\polygon.h
+	"shape.h"
+
+1600486777 c:\users\training\documents\shapes\shape.h
+
+1600669041 source:c:\users\training\documents\shapes\triangle.cc
+	"triangle.h"
+	<math.h>
+
+1600668528 c:\users\training\documents\shapes\triangle.h
+	"polygon.h"
+
+1600669951 source:c:\users\training\documents\shapes\rectangle.cc
+	"rectangle.h"
+	<math.h>
+
+1600486777 c:\users\training\documents\shapes\rectangle.h
+	"polygon.h"
+
+1600670632 source:c:\users\training\documents\shapes\circle.cc
+	"circle.h"
+	<math.h>
+
+1600670149 c:\users\training\documents\shapes\circle.h
+	"shape.h"
+
+1600670624 source:c:\users\training\documents\shapes\shape_test.cc
+	"shape.h"
+	"polygon.h"
+	"circle.h"
+	<string>
+	<gtest/gtest.h>
+
+1600672714 source:c:\users\training\desktop\cpp_genesis\set-3\shapes\shape_test.cc
+	"shape.h"
+	"polygon.h"
+	"circle.h"
+	"triangle.h"
+	"rectangle.h"
+	<string>
+	<math.h>
+	<gtest/gtest.h>
+
+1600486777 c:\users\training\desktop\cpp_genesis\set-3\shapes\shape.h
+
+1600486777 c:\users\training\desktop\cpp_genesis\set-3\shapes\polygon.h
+	"shape.h"
+
+1600670149 c:\users\training\desktop\cpp_genesis\set-3\shapes\circle.h
+	"shape.h"
+
+1600668528 c:\users\training\desktop\cpp_genesis\set-3\shapes\triangle.h
+	"polygon.h"
+
+1600486777 c:\users\training\desktop\cpp_genesis\set-3\shapes\rectangle.h
+	"polygon.h"
+
